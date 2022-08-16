@@ -78,3 +78,4 @@ const me : human = {
 }
 
 
+console.log({me})
